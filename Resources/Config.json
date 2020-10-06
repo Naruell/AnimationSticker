@@ -1,0 +1,19 @@
+{
+    "config" : 
+    [
+        {"Type" : "Resource",   "Frame" : 12,   "Count" :  1,   "TrayName" : "호기심 많은 천사, 아자젤",    "Path" : "Resources/Azazel.png" }       ,
+        {"Type" : "Resource",   "Frame" : 12,   "Count" :  3,   "TrayName" : "세 쌍둥이 악마, 케르베로스",  "Path" : "Resources/Cerberus.png" }     ,
+        {"Type" : "Resource",   "Frame" : 12,   "Count" :  1,   "TrayName" : "고위 기소관, 저지먼트",       "Path" : "Resources/Judgement.png" }    ,
+        {"Type" : "Resource",   "Frame" : 12,   "Count" :  1,   "TrayName" : "끝내주는 악마, 저스티스",     "Path" : "Resources/Justice.png" }      ,
+        {"Type" : "Resource",   "Frame" : 12,   "Count" :  1,   "TrayName" : "지옥의 CEO, 루시퍼",          "Path" : "Resources/Lucifer.png" }     ,
+        {"Type" : "Resource",   "Frame" : 12,   "Count" :  1,   "TrayName" : "시큰둥한 악마, 말리나",       "Path" : "Resources/Malina.png" }       ,
+        {"Type" : "Resource",   "Frame" : 12,   "Count" :  1,   "TrayName" : "음란한 악마, 모데우스",       "Path" : "Resources/Modeus.png" }       ,
+        {"Type" : "Resource",   "Frame" : 12,   "Count" :  1,   "TrayName" : "피곤한 악마, 판데모니카",     "Path" : "Resources/Pandemonica.png" }  ,
+        {"Type" : "Resource",   "Frame" : 12,   "Count" :  1,   "TrayName" : "상스러운 악마, 즈드라다",     "Path" : "Resources/Zdrada.png" }       ,
+
+        {"Type" : "Resource",   "Frame" : 12,   "Count" :  1,   "TrayName" : "사후 세계의 천사, 카나데",    "Path" : "Resources/Kanade.png" }       ,
+        {"Type" : "Resource",   "Frame" : 12,   "Count" :  1,   "TrayName" : "차원의 관리자, 하얀바람",     "Path" : "Resources/WhiteWindy.png" }   ,
+
+        {"Type" : "TrayIcon",  "Frame" : 1,     "Count" : 1,   "TrayName" : "둠칫둠칫",                   "Path" : "Resources/Hero.png" }
+    ]
+}
